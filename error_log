@@ -1,0 +1,9 @@
+[06-Feb-2015 09:26:12 America/Chicago] PHP Warning:  include(./include/footer.php): failed to open stream: No such file or directory in /home3/jarobert/public_html/index.php on line 33
+[06-Feb-2015 09:26:12 America/Chicago] PHP Warning:  include(./include/footer.php): failed to open stream: No such file or directory in /home3/jarobert/public_html/index.php on line 33
+[06-Feb-2015 09:26:12 America/Chicago] PHP Warning:  include(): Failed opening './include/footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/jarobert/public_html/index.php on line 33
+[06-Feb-2015 09:29:05 America/Chicago] PHP Warning:  scandir(./backgrounds/): failed to open dir: No such file or directory in /home3/jarobert/public_html/includes/bg.php on line 32
+[06-Feb-2015 09:29:05 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/jarobert/public_html/includes/bg.php on line 32
+[06-Feb-2015 09:29:21 America/Chicago] PHP Warning:  scandir(./backgrounds/): failed to open dir: No such file or directory in /home3/jarobert/public_html/includes/bg.php on line 32
+[06-Feb-2015 09:29:21 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/jarobert/public_html/includes/bg.php on line 32
+[06-Feb-2015 09:46:37 America/Chicago] PHP Warning:  scandir(../backgrounds/): failed to open dir: No such file or directory in /home3/jarobert/public_html/includes/bg.php on line 34
+[06-Feb-2015 09:46:37 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home3/jarobert/public_html/includes/bg.php on line 34
